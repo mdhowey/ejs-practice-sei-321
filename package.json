@@ -1,0 +1,16 @@
+{
+  "name": "ejs_practice",
+  "version": "1.0.0",
+  "description": "Practice for SEI 321 | Unit 2 | EJS/Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devhowey",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
